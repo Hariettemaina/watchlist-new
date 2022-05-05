@@ -1,4 +1,4 @@
-export MOVIE_API_KEY='21301c876ea97d48088604bdcfd72107'
-export SECRET_KEY='464646464km2'
+export MOVIE_API_KEY='631d6d1aebf630ae5fc0b449e9ad8da5'
+export SECRET_KEY='464646464jhw'
 
 python3.8 manage.py server
